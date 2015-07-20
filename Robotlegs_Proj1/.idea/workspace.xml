@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="427160da-9954-4f74-9287-e94de43a0fe5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
+    </list>
+    <ignored path="Robotlegs_Proj1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/fragment.js2" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437421439053" ignored="false" />
+    <file path="/HelloWorldContext.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437422622777" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/matching/TypeMatcher.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/matching/PackageMatcher.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/StageObserverExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/ViewManagerExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/matching/ITypeMatcherFactory.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/StageCrawlerExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/matching/package.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/ManualStageObserverExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/matching/ITypeFilter.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/api/IViewManager.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/matching/ITypeMatcher.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/api/IViewHandler.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/ContainerRegistryEvent.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/matching/PackageFilter.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/ViewManager.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/ContainerRegistry.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/vigilance/VigilanceExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/ContainerBindingEvent.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/StageObserver.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/ViewManagerEvent.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/modularity/ModularityExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/ContainerBinding.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/ManualStageObserver.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/StageCrawler.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/impl/ConfigureViewEvent.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/api/ICommandExecutor.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/contextView/ContextViewExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/api/CommandPayload.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/api/ICommandTrigger.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/contextView/ContextViewListenerConfig.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/api/ICommand.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/contextView/StageSyncExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/api/ICommandMapping.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/api/ICommandMappingList.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/dsl/ICommandConfigurator.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/dsl/ICommandUnmapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/dsl/ICommandMapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/mediatorMap/MediatorMapExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/impl/CommandMapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/impl/CommandMappingList.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/mediatorMap/api/IMediatorMap.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/impl/CommandMapping.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/mediatorMap/api/IMediator.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/impl/CommandTriggerMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/impl/NullCommandTrigger.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/mediatorMap/api/IMediatorMapping.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456237" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/commandCenter/impl/CommandExecutor.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/localEventMap/LocalEventMapExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/mediatorMap/dsl/IMediatorMapper.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/localEventMap/api/IEventMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/localEventMap/impl/EventMapConfig.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/localEventMap/impl/EventMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/viewManager/ViewManagerExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/enhancedLogging/InjectorActivityLoggingExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/viewManager/StageObserverExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/viewManager/StageCrawlerExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/viewManager/ManualStageObserverExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/enhancedLogging/TraceLoggingExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/enhancedLogging/InjectableLoggerExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/viewManager/api/IViewManager.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/enhancedLogging/impl/LoggerProvider.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/enhancedLogging/impl/TraceLogTarget.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/enhancedLogging/impl/LogMessageParser.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/enhancedLogging/impl/InjectorListener.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/commandCenter/api/ICommand.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/eventCommandMap/EventCommandMapExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/eventCommandMap/api/IEventCommandMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/eventCommandMap/impl/EventCommandMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/localEventMap/LocalEventMapExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/eventCommandMap/impl/EventCommandTrigger.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/eventDispatcher/EventDispatcherExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/enhancedLogging/InjectableLoggerExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/eventDispatcher/impl/LifecycleEventRelay.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/eventDispatcher/impl/EventRelay.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/enhancedLogging/InjectorActivityLoggingExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/enhancedLogging/TraceLoggingExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/directCommandMap/DirectCommandMapExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/directCommandMap/api/IDirectCommandMapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/eventCommandMap/EventCommandMapExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/directCommandMap/api/IDirectCommandMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/directCommandMap/dsl/IDirectCommandConfigurator.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/directCommandMap/impl/DirectCommandMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/directCommandMap/impl/DirectCommandMapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/eventDispatcher/EventDispatcherExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/ViewProcessorMapExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/api/IViewProcessorMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/api/ViewProcessorMapError.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/dsl/IViewProcessorMapping.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/dsl/IViewProcessorMappingConfig.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/dsl/IViewProcessorUnmapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/directCommandMap/DirectCommandMapExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/dsl/IViewProcessorMapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/directCommandMap/api/IDirectCommandMap.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/ViewInjectionProcessor.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/ViewProcessorMapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/NullProcessor.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/ViewProcessorFactory.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/ViewProcessorMapping.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/NullViewProcessorUnmapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/directCommandMap/impl/DirectCommandMap.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/IViewProcessorViewHandler.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/IViewProcessorFactory.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/ViewProcessorViewHandler.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/impl/ViewProcessorMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/viewProcessorMap/ViewProcessorMapExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/utils/PropertyValueInjector.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/utils/FastPropertyInjector.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewProcessorMap/utils/MediatorCreator.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/mxml/ContextBuilderTag.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/viewProcessorMap/api/IViewProcessorMap.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/bundles/mvcs/Command.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/viewProcessorMap/dsl/IViewProcessorMapping.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456243" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/bundles/mvcs/Mediator.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/bundles/mvcs/MVCSBundle.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/viewProcessorMap/dsl/IViewProcessorMapper.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/LifecycleError.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/IContext.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/IConfig.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/IExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/LogLevel.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/LifecycleEvent.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/ILogger.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/ILifecycle.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/IMatcher.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/PinEvent.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/ILogTarget.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/IGuard.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/IBundle.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/LifecycleState.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/IInjector.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/api/IHook.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/safelyCallBack.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/UID.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/RobotlegsInjector.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/guardsApprove.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/ExtensionInstaller.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/applyHooks.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/Lifecycle.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/LifecycleTransition.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/ObjectProcessor.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/LogManager.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/Pin.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/MessageDispatcher.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/ConfigManager.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/framework/impl/Logger.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/matching/ITypeMatcherFactory.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/matching/TypeMatcherError.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/mxml/ContextBuilderTag.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456243" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/matching/ITypeMatcher.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/matching/TypeFilter.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/bundles/mvcs/Mediator.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/matching/PackageMatcher.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/matching/ITypeFilter.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/bundles/mvcs/Command.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/matching/instanceOfType.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/bundles/mvcs/MVCSBundle.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/matching/PackageFilter.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/matching/TypeMatcher.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/vigilance/VigilanceExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/api/ILogTarget.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/api/IInjector.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/vigilance/VigilantError.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/api/IBundle.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/api/ILifecycle.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/modularity/ModularityExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/api/IContext.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456243" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/modularity/api/IModuleConnector.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/api/IConfig.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/modularity/dsl/IModuleConnectionAction.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/modularity/impl/ModuleConnector.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/modularity/impl/ContextViewBasedExistenceWatcher.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/api/IExtension.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/modularity/impl/ModuleConnectionConfigurator.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/modularity/impl/ViewManagerBasedExistenceWatcher.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/modularity/impl/ModularContextEvent.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/contextView/StageSyncExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/contextView/ContextView.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/contextView/ContextViewExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/contextView/ContextViewListenerConfig.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/impl/Context.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420457086" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/impl/package.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/MediatorMapExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/framework/impl/RobotlegsInjector.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/api/IMediator.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/api/IMediatorMapping.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/api/IMediatorMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/dsl/IMediatorConfigurator.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/dsl/IMediatorUnmapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/dsl/IMediatorMapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorMapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/NullMediatorUnmapper.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorManager.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorViewHandler.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorMapping.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorFactory.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
+    <file path="/Dummy.txt" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437427072917" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Robotlegs_Proj1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldContext.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HelloWorldContext.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="47" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IConfig.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robotlegs/src/robotlegs/bender/framework/api/IConfig.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Context.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robotlegs/src/robotlegs/bender/framework/impl/Context.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="13" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/HelloWorldContext.as" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotlegs_Proj1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotlegs_Proj1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotlegs_Proj1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotlegs_Proj1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotlegs_Proj1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\E4K_Workspace\Robotlegs_Proj1" />
+      <recent name="F:\E4K_Workspace\Robotlegs_Proj1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flash App.Robotlegs_Proj1">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Robotlegs_Proj1" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="Robotlegs_Proj1" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="Robotlegs_Proj1" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <RunnerSettings RunnerId="FlexDebugRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Flash App.Robotlegs_Proj1" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="427160da-9954-4f74-9287-e94de43a0fe5" name="Default" comment="" />
+      <created>1437419695237</created>
+      <updated>1437419695237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6006826" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorldContext.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="34" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotlegs/src/robotlegs/bender/framework/api/IConfig.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotlegs/src/robotlegs/bender/framework/impl/Context.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotlegs/src/robotlegs/bender/framework/api/IConfig.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorldContext.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="34" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotlegs/src/robotlegs/bender/framework/impl/Context.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorldContext.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotlegs/src/robotlegs/bender/framework/impl/Context.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robotlegs_Proj1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotlegs/src/robotlegs/bender/framework/impl/Context.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotlegs/src/robotlegs/bender/framework/api/IConfig.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/robotlegs/bin/robotlegs-framework-v2.2.1.swc!/library.swf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1461" column="18" selection-start="71820" selection-end="71820" vertical-scroll-proportion="0.33272395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorldContext.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="47" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Robotlegs_Proj1|Robotlegs_Proj1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
