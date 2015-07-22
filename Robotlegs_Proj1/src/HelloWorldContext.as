@@ -7,7 +7,7 @@ package
 	{
 		public function configure():void
 		{
-
+			   trace();
 		}
 	}
 }
