@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427160da-9954-4f74-9287-e94de43a0fe5" name="Default" comment="My project.">
+    <list default="true" id="427160da-9954-4f74-9287-e94de43a0fe5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HelloWorldContext.as" afterPath="$PROJECT_DIR$/src/HelloWorldContext.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.as" afterPath="$PROJECT_DIR$/src/Main.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Robotlegs_Proj1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.js2" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437421439053" ignored="false" />
-    <file path="/HelloWorldContext.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437422622777" ignored="false" />
+    <file path="/HelloWorldContext.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437600615708" ignored="false" />
     <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/matching/TypeMatcher.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
     <file path="$PROJECT_DIR$/src/frameworks/robotlegs/docs/robotlegs/bender/extensions/matching/PackageMatcher.html" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
     <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/viewManager/StageObserverExtension.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456229" ignored="false" />
@@ -206,7 +206,7 @@
     <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorMap.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
     <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorMapping.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
     <file path="$PROJECT_DIR$/src/frameworks/robotlegs/src/robotlegs/bender/extensions/mediatorMap/impl/MediatorFactory.as" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437420456230" ignored="false" />
-    <file path="/Dummy.txt" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437600399461" ignored="false" />
+    <file path="/Dummy.txt" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437600560130" ignored="false" />
     <file path="F:/E4K_Workspace/2014_04_10_Prime_Day_Special_Offer/.idea/workspace.xml" changelist="427160da-9954-4f74-9287-e94de43a0fe5" time="1437515574343" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -268,19 +268,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.as" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="19" selection-start="264" selection-end="264" vertical-scroll-proportion="0.5067751">
+            <state line="9" column="28" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldContext.as" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="HelloWorldContext.as" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HelloWorldContext.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="47" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+            <state line="7" column="12" selection-start="120" selection-end="120" vertical-scroll-proportion="0.32425067">
               <folding />
             </state>
           </provider>
@@ -327,8 +327,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/HelloWorldContext.as" />
         <option value="$PROJECT_DIR$/src/Main.as" />
+        <option value="$PROJECT_DIR$/src/HelloWorldContext.as" />
       </list>
     </option>
   </component>
@@ -644,14 +644,18 @@
       <created>1437508837878</created>
       <updated>1437508837878</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My project.">
+      <created>1437600567591</created>
+      <updated>1437600567591</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3282313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -662,20 +666,20 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6717687" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67064846" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993197" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -839,16 +843,16 @@
         <state line="1461" column="18" selection-start="71820" selection-end="71820" vertical-scroll-proportion="0.33272395" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloWorldContext.as">
+    <entry file="file://$PROJECT_DIR$/src/Main.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="47" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+        <state line="9" column="28" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.as">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorldContext.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="19" selection-start="264" selection-end="264" vertical-scroll-proportion="0.5067751">
+        <state line="7" column="12" selection-start="120" selection-end="120" vertical-scroll-proportion="0.32425067">
           <folding />
         </state>
       </provider>

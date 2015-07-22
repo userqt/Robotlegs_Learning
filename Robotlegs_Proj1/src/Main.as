@@ -8,7 +8,6 @@ public class Main extends Sprite {
         var textField:TextField = new TextField();
         textField.text = "Hello, Worlds";
         addChild(textField);
-
     }
 }
 }
